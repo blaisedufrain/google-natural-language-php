@@ -1,5 +1,5 @@
 {
-  "name": "blaisedufrain/google-natural-language-php",
+  "name": "darrynten/google-natural-language-php",
   "description": "PHP Google Natural Language Client with Extras",
   "type": "library",
   "require": {
